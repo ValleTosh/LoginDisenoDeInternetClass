@@ -1,0 +1,4 @@
+{
+  "name": "LoginWeb"
+, "files": [ { "directory": ["LoginWeb","css"], "filters": ["*.html", "*.css", "*.js", "*.php" , ".kateproject"], "recursive": 1 } ]
+}
